@@ -1,0 +1,1 @@
+DELETE FROM tbl_producers WHERE producer_id = ?

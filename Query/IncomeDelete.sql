@@ -1,0 +1,1 @@
+DELETE FROM tbl_income WHERE income_id = ?

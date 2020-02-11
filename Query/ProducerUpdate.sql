@@ -1,0 +1,1 @@
+UPDATE tbl_producers SET name = ?, tin = ?, address = ?, phone = ? WHERE producer_id = ?

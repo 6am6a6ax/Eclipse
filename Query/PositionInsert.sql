@@ -1,0 +1,1 @@
+INSERT INTO tbl_positions(row, rack) VALUES(?, ?)

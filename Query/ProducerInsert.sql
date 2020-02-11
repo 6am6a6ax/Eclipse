@@ -1,0 +1,1 @@
+INSERT INTO tbl_producers(name, tin, address, phone) VALUES(?, ?, ?, ?)

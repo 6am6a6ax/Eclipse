@@ -1,0 +1,1 @@
+SELECT * FROM tbl_materials WHERE material_id = ?

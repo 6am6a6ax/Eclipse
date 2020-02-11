@@ -1,0 +1,1 @@
+DELETE FROM tbl_responsible WHERE responsible_id = ?
